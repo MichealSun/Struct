@@ -1,0 +1,5 @@
+create table details(
+sno int,
+sname varchar(20),
+scountry varchar(20)
+);
